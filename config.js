@@ -2,42 +2,33 @@
 /*
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
-𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
-𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
+𝐀𝐮𝐭𝐡𝐨𝐫 : Rann D
+𝐖𝐚 : 6285752583246
+𝐛𝐚𝐬𝐞 : BotWaRann
+
 
 ⫹❰⫺ 𝐵𝐼𝐺 𝑇𝐻𝐴𝑁𝐾𝑆 𝑇𝑂 ⫹❱⫺
-⭝ 𝑨𝒍𝒍𝒂𝒉 𝒀𝒂𝒏𝒈 𝑴𝒂𝒉𝒂 𝑬𝒔𝒂
-⭝ 𝑶𝒓𝒂𝒏𝒈 𝑻𝒖𝒂
-⭝ 𝑻𝒆𝒎𝒆𝒏 𝑮𝒘
-⭝ 𝑴𝒂𝒔𝒕𝒂𝒉 𝑴𝒂𝒔𝒕𝒂𝒉
+⭝ Tuhan Yang Masa Esa
+⭝ Orang Tua
+⭝ Temen
+
+
+
+
 
 ⫹⫺ 𝑇𝒉𝑒 𝑁𝑎𝑚𝑒 𝑇𝒉𝑎𝑡 𝐻𝑒𝑙𝑝𝑒𝑑 𝑀𝑒 ⫹⫺
 ⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔⸔
-⭝ 𝑨𝒅𝒊𝒘𝒂𝒋𝒊𝒔𝒉𝒊𝒏𝒈
-⭝ 𝑵𝒂𝒓𝒖𝒕𝒐𝒎𝒐
-⭝ 𝑹𝒊𝒔𝒎𝒂𝑩𝒐𝒕𝒛 𝑶𝒇𝒇𝒄
-⭝ 𝑱𝒂𝒓𝒐𝒕 𝑶𝒇𝒇𝒄
-⭝ 𝑯𝒚𝒛𝒆𝒓
-⭝ 𝑫𝒆𝒇𝒇𝒓𝒊
-⭝ 𝑲𝒂𝒏𝒏𝒂𝑪𝒉𝒂𝒏
-⭝ 𝑪𝒉𝒓𝒊𝒔𝒕𝒊𝒂𝒏 𝑰𝒅
-⭝ 𝑨𝒊𝒏𝒆
-⭝ 𝑨𝒓𝒊𝒇𝒇𝒃
-⭝ 𝑰𝒍𝒎𝒂𝒏
-⭝ 𝑨𝒎𝒊𝒓𝒖𝒍
-⭝ 𝑰𝒔𝒕𝒊𝒌𝒎𝒂𝒍
-⭝ 𝑭𝒛𝒐𝒏𝒆
-⭝ 𝑭𝒂𝑱𝒂𝒓
-⭝ 𝑨𝒓𝒖𝒍𝒍 𝑶𝒇𝒄
-⭝ 𝒁𝒆𝒆𝒐𝒏𝒆 𝑶𝒇𝒄
-⭝ 𝑹𝒂𝒎𝒍𝑎𝑛
-⭝ 𝑮𝒆𝒎𝒑𝒚𝒓𝑻𝒐𝒏
-let nowner1 = `${nomorown1.split`@`[0]}@s.whatsapp.net`
-  let nowner2 = `${nomorown2.split`@`[0]}@s.whatsapp.net`
+⭝ Kang HS
+⭝ Randi Saputra
+⭝ Rann D
+CG⭝ BOT GB
+
+
+
+let nowner1 = `${6285752583246.rann`@`[0]}@s.whatsapp.net`
+  let nowner2 = `${6289590340893.nomor bot`@`[0]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
-✦ @${nomorown1.split`@`[0]} ✦
+✦ @${6285752583246.rann`@`[0]} ✦
 */
 
 import { watchFile, unwatchFile } from 'fs'
@@ -85,32 +76,32 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281352848936'
-global.nomorown = '6281251549899'
-global.nomorown1 = '6281251549899'
-global.nomorown2 = '6281348106274'
-global.nomorwa = '0'
+global.nomorbot = '6289590340893'
+global.nomorown = '6285752583246'
+global.nomorown1 = '6285752583246'
+global.nomorown2 = '6285752583246'
+global.nomorwa = '6285752583246'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'DaniXd'
-global.namebot = '​ DaniBotz'
-global.wm = '© DaniBotz Bye DaniXd'
+global.author = 'Rann×D'
+global.namebot = '​ RannBotz V5'
+global.wm = '© RannBotz V5 Bye Rann×D'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'DaniXd '
+global.wm = 'Rann D '
 global.watermark = wm
-global.wm2 = 'DaniXd '
+global.wm2 = 'Rann '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© DaniBotz MD`
+global.titlebot = `Rann Owner Tampan`
+global.stickpack = 'Stiker BotWa Rann'
+global.stickauth = `© RannBotz Wa`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'DaniXd'
+global.nameown1= 'Rann'
 global.nameown2 = 'DaniOfc'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
@@ -118,20 +109,20 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/danibotz_official'
+global.tiktok = 'kanghsyt'
 global.sgh = 'https://github.com/DaniXd' //github
 global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
+global.snh = 'Kang HS'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0812 5154 9899'
+global.pdana = '0857 5258 3246'
 global.povo = '-'
-global.pgopay = '0813 5284 8936'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0812 5154 9899'
-global.ppulsa2 = '081352848936'
-global.psaweria = 'https://saweria.co/hyuura'
+global.ppulsa = '0857 5258 3246'
+global.ppulsa2 = '0895 9034 0893'
+global.psaweria = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
